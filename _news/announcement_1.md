@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-11-03 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Check out our new work on [Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions] :smile:
