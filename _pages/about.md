@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student in Computer Science, [EECS, University of Arkansas](https://eecs.uark.edu/)
+subtitle: Ph.D. student in Computer Science, <a href='https://eecs.uark.edu/'>EECS, University of Arkansas</a>
 
 profile:
   align: right
   image: Hao.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>JBHT-345</p>
+    <p>SAIL Lab (JBHT-345)</p>
     <p>227 N Harmon Ave</p>
     <p>Fayetteville, AR 72701</p>
 
