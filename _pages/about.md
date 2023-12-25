@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Hao.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>JBHT-345</p>
+    <p>227 N Harmon Ave</p>
+    <p>Fayetteville, AR 72701</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Minh-Hao Van (Văn Minh Hào in Vietnamese). I am a forth-year a fourth-year Ph.D. student in Computer Science at the University of Arkansas, advised by [Prof. Xintao Wu](http://www.csce.uark.edu/~xintaowu/). My research interests include Machine Learning and Deep Learning, with a specific emphasis on exploring and improving the trustworthiness in AI/ML models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to University of Arkansas, I earned my B.Eng degree in Computer Science with Honors from HCMC University of Technoloty (Bach Khoa University), VNUHCM, in 2019. During my undergraduate study, I used to work on Machine Learning method for predicting the cryptocurrency price movements and the impact of social media news on the price with Dr. Khuong Nguyen-An. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to contact me via email or Linkedin if you are interested in my research. I am also willing to have a coffee chat when you drop by North-West Arkansas area.
