@@ -23,4 +23,4 @@ Hi, my name is Minh-Hao Van (Văn Minh Hào in Vietnamese). I am a fourth-year P
 
 Prior to University of Arkansas, I earned my B.Eng degree in Computer Science with Honors from HCMC University of Technoloty (Bach Khoa University), VNUHCM, in 2019. During my undergraduate study, I used to work on Machine Learning method for predicting the cryptocurrency price movements and the impact of social media news on the price with [Dr. Khuong Nguyen-An](https://blog.efiens.com/author/nguyen-an-khuong/). 
 
-Feel free to contact me via [email](haovan@uark.edu) or [Linkedin](https://www.linkedin.com/in/haovan97/) if you are interested in my research. I am also willing to have a coffee chat when you drop by North-West Arkansas area.
+Feel free to contact me via [email](mailto:haovan@uark.edu) or [Linkedin](https://www.linkedin.com/in/haovan97/) if you are interested in my research. I am also willing to have a coffee chat when you drop by North-West Arkansas area.
