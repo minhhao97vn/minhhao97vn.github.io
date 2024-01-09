@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Minh-Hao Van (Văn Minh Hào in Vietnamese). I am a fourth-year Ph.D. student in Computer Science at the University of Arkansas, advised by [Prof. Xintao Wu](http://www.csce.uark.edu/~xintaowu/). My research interests include Machine Learning and Deep Learning, with a specific emphasis on exploring and improving the trustworthiness in AI/ML models. Please see my [CV](https://drive.google.com/file/d/1ogpWyScyzC68uSWqHRgDeMdwsF7s7tsI/view?usp=sharing) here.
+Hi, my name is Minh-Hao Van (Văn Minh Hào in Vietnamese). I am a fourth-year Ph.D. student in Computer Science at the University of Arkansas, advised by [Prof. Xintao Wu](http://www.csce.uark.edu/~xintaowu/). My research interests include Machine Learning and Deep Learning, with a specific emphasis on exploring and improving the trustworthiness in AI/ML models. Recently, I am exploring the safety of Large and Vision Language Model, and efficient methods for adapting large model to unseen tasks. Please see my [CV](https://drive.google.com/file/d/1ogpWyScyzC68uSWqHRgDeMdwsF7s7tsI/view?usp=sharing) here.
 
 Prior to University of Arkansas, I earned my B.Eng degree in Computer Science with Honors from HCMC University of Technoloty (Bach Khoa University), VNUHCM, in 2019. During my undergraduate study, I used to work on Machine Learning method for predicting the cryptocurrency price movements and the impact of social media news on the price with [Dr. Khuong Nguyen-An](https://blog.efiens.com/author/nguyen-an-khuong/). 
 
