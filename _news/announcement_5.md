@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-30 08:00:00-0600
+date: 2023-09-15 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Hao was awarded the Reginald R. ‘Barney’ & Jameson A. Baxter Graduate Fellowship for the academic year 2023-2024. Congratulations! :sparkles:
+Check out our new work on [Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions](https://arxiv.org/abs/2309.08678) :smile:

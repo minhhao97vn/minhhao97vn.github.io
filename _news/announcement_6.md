@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2022-10-25 08:00:00-0600
+date: 2023-09-03 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Our paper [Defending Evasion Attacks via Adversarially Adaptive Training
-](https://ieeexplore.ieee.org/document/10020474) was accepted at 2022 IEEE International Conference on Big Data as regular paper (acceptance rate 19.2%). Congratulations! :sparkles: [[Code](https://github.com/minhhao97vn/AAD)]
+Our paper [HINT: Healthy Influential-Noise based Training to Defend against Data Poisoning Attacks](https://arxiv.org/abs/2309.08549) was accepted at 2023 IEEE International Conference on Data Minng as regular paper (acceptance rate 9.37%). Congratulations! :sparkles: [[Code](https://github.com/minhhao97vn/HINT)]

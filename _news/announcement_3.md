@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-15 08:00:00-0600
+date: 2024-01-30 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Check out our new work on [Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions](https://arxiv.org/abs/2309.08678) :smile:
+Our paper [Robust Influence-based Training Methods for Noisy Brain MRI](#) was accepted at PAKDD'24 as a full paper with an oral presentation. Congratulations! :sparkles:
