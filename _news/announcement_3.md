@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study](https://arxiv.org/pdf/2402.14162) was accepted at IEEE CHASE'24 as a short paper. Congratulations! :sparkles:
+One co-authored paper [Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions](https://arxiv.org/pdf/2309.08678.pdf) was accepted at IJCNN'24. Congratulations! :sparkles:

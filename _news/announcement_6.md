@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out our new work on [Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions](https://arxiv.org/abs/2309.08678) :smile:
+Our paper [Detecting and Correcting Hate Speech in Multimodal Memes with Large Visual Language Model](https://arxiv.org/pdf/2311.06737.pdf) was accepted at Defactify @ AAAI 2024. Congratulations! :sparkles:

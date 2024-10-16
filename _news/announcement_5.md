@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Detecting and Correcting Hate Speech in Multimodal Memes with Large Visual Language Model](https://arxiv.org/pdf/2311.06737.pdf) was accepted at Defactify @ AAAI 2024. Congratulations! :sparkles:
+Our paper [Robust Influence-based Training Methods for Noisy Brain MRI](https://arxiv.org/abs/2403.10698) was accepted at PAKDD'24 as a full paper with an oral presentation. Congratulations! :sparkles:
