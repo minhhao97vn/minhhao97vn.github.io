@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-24 08:00:00-0600
+date: 2025-01-22 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Hao was awarded the Reginald R. ‘Barney’ & Jameson A. Baxter and EECS Graduate Fellowship for the academic year 2024-2025. Congratulations! :sparkles:
+One paper [Soft Prompting for Unlearning in Large Language Models](https://arxiv.org/abs/2406.12038) is accepted to main conference at NAACL-2025. Congratulations! :sparkles:

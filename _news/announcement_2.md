@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2024-06-30 08:00:00-0600
+date: 2025-12-01 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Check out our new works on addressing machine unlearning in LLM via soft prompting [Soft Prompting for Unlearning in Large Language Models
-](https://arxiv.org/abs/2406.12038) and effective influence analysis for selecting in-context demonstration examples [In-Context Learning Demonstration Selection via Influence Analysis
-](https://arxiv.org/pdf/2402.11750)  :smile:
+I will server as reviewers for WWW'25, PAKDD'25 and IJCNN'25.
