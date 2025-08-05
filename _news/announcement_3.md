@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-24 08:00:00-0600
+date: 2025-12-01 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Hao was awarded the Reginald R. ‘Barney’ & Jameson A. Baxter and EECS Graduate Fellowship for the academic year 2024-2025. Congratulations! :sparkles:
+I will server as reviewers for WWW'25, PAKDD'25 and IJCNN'25.

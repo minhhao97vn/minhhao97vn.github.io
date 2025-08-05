@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2024-06-30 08:00:00-0600
+date: 2024-09-24 08:00:00-0600
 inline: true
 related_posts: false
 ---
 
-Check out our new works on addressing machine unlearning in LLM via soft prompting [Soft Prompting for Unlearning in Large Language Models
-](https://arxiv.org/abs/2406.12038) and effective influence analysis for selecting in-context demonstration examples [In-Context Learning Demonstration Selection via Influence Analysis
-](https://arxiv.org/pdf/2402.11750)  :smile:
+Minh-Hao was awarded the Reginald R. ‘Barney’ & Jameson A. Baxter and EECS Graduate Fellowship for the academic year 2024-2025. Congratulations! :sparkles:
