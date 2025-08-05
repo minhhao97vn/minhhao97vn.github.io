@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate in Computer Science, <a href='https://eecs.uark.edu/'>EECS, University of Arkansas</a>
+subtitle: Postdoctoral Fellow in Computer Science, <a href='https://eecs.uark.edu/'>EECS, University of Arkansas</a>
 
 profile:
   align: right
