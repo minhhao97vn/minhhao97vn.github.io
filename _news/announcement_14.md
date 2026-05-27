@@ -1,13 +1,5 @@
 ---
 layout: post
-date: 2024-09-24 08:00:00-0600
-inline: true
-related_posts: false
----
-
-Minh-Hao was awarded the Reginald R. ‘Barney’ & Jameson A. Baxter and EECS Graduate Fellowship for the academic year 2024-2025. Congratulations! :sparkles:
----
-layout: post
 date: 2023-09-15 08:00:00-0600
 inline: true
 related_posts: false
